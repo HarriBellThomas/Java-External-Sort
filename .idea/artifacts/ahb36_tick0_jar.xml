@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ahb36-tick0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ahb36_tick0_jar</output-path>
+    <root id="archive" name="ahb36-tick0.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/uk/ac/cam/ahb36/fjava/tick0/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="FJavaCode" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
